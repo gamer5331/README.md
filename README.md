@@ -15,7 +15,7 @@ I am 15 years old and approach every project with the ambition to become a highl
 <br/>  
 
 
-## My Skill Set  
+## Leguages  
 <table><tr><td valign="top" width="33%">
 
 
