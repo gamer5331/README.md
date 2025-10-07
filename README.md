@@ -1,8 +1,7 @@
 
 
 ###  🌎 I'm Torsten Grebe !💻  
-
-English Version 
+ 
 ✨ Greetings! I'm Torsten, an aspiring Web Developer with an insatiable passion for technology.
 
 Currently, I am deeply immersed in back-end development, meticulously building the robust foundations that power the web. My journey is driven by a commitment to mastering modern coding principles and engineering efficient solutions.
