@@ -67,8 +67,6 @@ I am 15 years old and approach every project with the ambition to become a highl
 
 <br/>  
 
-
-## Github Stats  
   
 
 <br/>  
